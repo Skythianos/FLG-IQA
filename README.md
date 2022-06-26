@@ -4,3 +4,15 @@
 
 ## Cite
 If you use this code, please cite the following paper:
+```
+@article{varga2022no,
+  title={No-Reference Quality Assessment of Authentically Distorted Images Based on Local and Global Features},
+  author={Varga, Domonkos},
+  journal={Journal of Imaging},
+  volume={8},
+  number={6},
+  pages={173},
+  year={2022},
+  publisher={MDPI}
+}
+```
